@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1474662610 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio13\src\operacion.cpp
+	"Operacion.h"
+
+1474658258 c:\users\omarm\dropbox\codeblocks proyects\ejercicio13\include\operacion.h
+
+1474663432 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio13\main.cpp
+	<iostream>
+	<Operacion.h>
+
